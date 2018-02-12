@@ -6,12 +6,19 @@ font-size:30px;
 }
 
 p.one {
-    border-style: solid;
-    border-width: 5px;
+    
+    text_indent: 80px
+    border-top: 6px solid red
+    border-bottom: 6px solid red;
+    background-color: lightgrey;
 }
 
 p.two {
-    border-style: solid;
-    border-width: medium;
+    
+    text-indent: 80px
+    border-top: 6px solid red
+    border-bottom: 6px solid red;
+    background-color: lightgrey;
+   
 }
 
