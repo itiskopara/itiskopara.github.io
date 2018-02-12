@@ -3,7 +3,7 @@ body
 {
 font-family:"Georgia";
 font-size:30px;
-}
+
 
 p.one {
     
@@ -21,4 +21,5 @@ p.two {
     background-color: lightgrey;
    
 }
-
+    
+}
